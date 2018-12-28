@@ -1,0 +1,15 @@
+#header{
+	font-size: 100px;
+}
+.big{
+	color: red;
+	font-weight: bold;
+}
+#btn{
+	width: 100px;
+	height: 20px;
+	color: white;
+	background-color: #ff7900;
+	text-align: center;
+	cursor: pointer;
+}
